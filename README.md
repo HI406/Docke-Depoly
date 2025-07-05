@@ -15,4 +15,10 @@
 1. 将脚本拷贝到服务器上，假设路径为 ~。
 2. 执行chmod +x ~/docker-deploy.sh授予执行权限。
 3. cd 到存有docker-compose.yml文件的目录，执行sudo ~/docker-deploy.sh
-4. 
+
+# 运行截图
+## 服务器A（联网）
+![server-a](server-a.jpg)
+
+## 服务器B（不联网）
+![server-a](server-b.jpg)
